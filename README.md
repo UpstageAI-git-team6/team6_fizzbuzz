@@ -4,7 +4,7 @@
 UpstageAI git lec team6 project
 
 # Project Description
-work about fizzbuzz and 100 Prisoners Problem
+work about fizzbuzz
 
 ## Prerequisites
 - python ^3.11.0
